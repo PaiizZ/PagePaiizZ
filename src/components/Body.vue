@@ -1,6 +1,6 @@
 <template>
 <div>
-  <h1>deverloping</h1>
+  <img src="dist/images/resume.png">
 </div>
 </template>
 

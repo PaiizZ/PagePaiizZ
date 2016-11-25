@@ -4,7 +4,7 @@
       <div class="column is-one-quarter">
         <div class="notification is-brown photo">
           <a href="https://www.facebook.com/paiizz.mpk.1">
-            <img src="src/assets/profile.png">
+            <img src="dist/images/profile.png">
           </a>
         </div>
       </div>
